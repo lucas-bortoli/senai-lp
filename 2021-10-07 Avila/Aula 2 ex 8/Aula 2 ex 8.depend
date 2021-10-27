@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633632576 source:c:\users\senai\onedrive - fiep - federacao das industrias do estado do parana\exercícios lp\2021-10-07 avila\aula 2 ex 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

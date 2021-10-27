@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635362707 source:c:\users\senai\onedrive - fiep - federacao das industrias do estado do parana\exercícios lp\20211027 matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<stdbool.h>
+

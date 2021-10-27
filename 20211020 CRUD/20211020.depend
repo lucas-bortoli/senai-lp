@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635352914 source:c:\users\senai\onedrive - fiep - federacao das industrias do estado do parana\exercícios lp\20211020 crud\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<math.h>
+	<ctype.h>
+	<sys/stat.h>
+
